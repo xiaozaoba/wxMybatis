@@ -1,4 +1,5 @@
-#自定义mybatis
+# 自定义mybatis
+
 1. 先定义一个读取xml配置文件的流
 2. 将配置信息读取到一个对象`Configuration` 中
     1. 数据库连接信息
