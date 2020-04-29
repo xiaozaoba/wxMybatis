@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3618b734-be9e-49db-b9d3-434e504e1bf4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bC7oKelidva6EDx5Czdt7PfxnT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/wx" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="wx.mapper" />
+      <recent name="" />
+      <recent name="wx.session.defaults" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="wx.session" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MybatisTest">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration name="MybatisTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.MybatisTest" />
+      <module name="mybatis-zdy" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XmlParser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="wx.session.until.XmlParser" />
+      <module name="mybatis-zdy" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="wx.session.until.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MybatisTest" />
+        <item itemvalue="Application.XmlParser" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3618b734-be9e-49db-b9d3-434e504e1bf4" name="Default Changelist" comment="" />
+      <created>1588124394774</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588124394774</updated>
+      <workItem from="1588124400343" duration="303000" />
+      <workItem from="1588124713427" duration="85000" />
+      <workItem from="1588124823620" duration="1204000" />
+      <workItem from="1588126054694" duration="8125000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="424" y="202" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588128921346">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="424" y="202" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1680.1050/0.0.1920.1080@0.0.1920.1080" timestamp="1588128921346" />
+    <state x="773" y="263" key="#com.intellij.ide.util.MemberChooser" timestamp="1588133300405">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="773" y="263" key="#com.intellij.ide.util.MemberChooser/1920.0.1680.1050/0.0.1920.1080@0.0.1920.1080" timestamp="1588133300405" />
+    <state width="1878" height="348" key="GridCell.Tab.0.bottom" timestamp="1588136009961">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="348" key="GridCell.Tab.0.bottom/1920.0.1680.1050/0.0.1920.1080@0.0.1920.1080" timestamp="1588136009961" />
+    <state width="1878" height="348" key="GridCell.Tab.0.center" timestamp="1588136009956">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="348" key="GridCell.Tab.0.center/1920.0.1680.1050/0.0.1920.1080@0.0.1920.1080" timestamp="1588136009956" />
+    <state width="1878" height="348" key="GridCell.Tab.0.left" timestamp="1588136009954">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="348" key="GridCell.Tab.0.left/1920.0.1680.1050/0.0.1920.1080@0.0.1920.1080" timestamp="1588136009953" />
+    <state width="1878" height="348" key="GridCell.Tab.0.right" timestamp="1588136009958">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="348" key="GridCell.Tab.0.right/1920.0.1680.1050/0.0.1920.1080@0.0.1920.1080" timestamp="1588136009958" />
+    <state x="461" y="179" key="SettingsEditor" timestamp="1588124939802">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="461" y="179" key="SettingsEditor/1920.0.1680.1050/0.0.1920.1080@0.0.1920.1080" timestamp="1588124939802" />
+    <state x="743" y="325" key="chooseDestDirectoryDialog" timestamp="1588132540965">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="743" y="325" key="chooseDestDirectoryDialog/1920.0.1680.1050/0.0.1920.1080@0.0.1920.1080" timestamp="1588132540965" />
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup" timestamp="1588129872675">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup/1920.0.1680.1050/0.0.1920.1080@0.0.1920.1080" timestamp="1588129872675" />
+  </component>
+</project>

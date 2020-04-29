@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<mapper namespace="wx.mapper.IAddressMapper">
+    <select id="findAll" resultType="wx.entity.Address">
+        select * from address
+    </select>
+
+    <select id="findById" resultType="wx.entity.Address">
+        select * from address where id=#{id}
+    </select>
+
+</mapper>
